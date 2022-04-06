@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupendra35
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Scienc
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me Linkedin
 - 
 
